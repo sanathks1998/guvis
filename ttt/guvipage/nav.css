@@ -1,0 +1,14 @@
+.navbar-default {
+    background-color: #fffefe;
+    border-color: #cac0c0;
+}
+navbar-default .navbar-nav>li>a{
+    color: #333;
+}
+navbar-default .navbar-nav>li>a{
+    color: #952d8c;
+}
+body
+{
+	margin-top=70px;
+}
